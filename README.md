@@ -4,10 +4,10 @@
 ︵‿︵‿୨𖤐୧‿︵‿︵
 
 ## (～o￣3￣)～ Sobre mí
-╰┈➤ ☆ Me encantan los videojuegos 
-╰┈➤ ☆ Soy fan de las novelas, los musicales y dormir (jeje)
-╰┈➤ ☆ Me interesa aprender programación, diseño web y crear mis propias ideas.
-╰┈➤ ☆ Ahora mismo practico principalmente con **Python**, pero en el futuro me gustaria probar otras cosas.
+╰┈➤ ☆ Me encantan los videojuegos  
+╰┈➤ ☆ Soy fan de las novelas, los musicales y dormir (jeje)  
+╰┈➤ ☆ Me interesa aprender programación, diseño web y crear mis propias ideas.  
+╰┈➤ ☆ Ahora mismo practico principalmente con **Python**, pero en el futuro me gustaria probar otras cosas.  
 
 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
 
